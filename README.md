@@ -1,2 +1,2 @@
 # Netflix
-Website Using HTML &amp; CSS
+Website Using HTML & CSS
